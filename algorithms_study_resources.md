@@ -1,6 +1,6 @@
 # Resources to learn Algorithms and Problem Solving using Data Structures and Algorithms
 
- If you would like to learn more about algorithms or practice them, then read on. Also, if you are brand-new at programming, please check out our [beginner's guide](first_timers_guide.md). 
+ If you would like to learn more about algorithms or practice them, then read on.
 
 ## Resources
 
