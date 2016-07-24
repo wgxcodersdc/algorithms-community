@@ -4,16 +4,11 @@
 
 ## Resources
 
-### Websites
-
-* [GeeksForGeeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - A great compilation of all the different types of algorithms out there. This website also has tons of pages devoted to problems and code solutions, usually written in C++ or Java.
-* [Mathematical problems](http://mathforum.org/dr.math/faq/) - A resource for mathematics
-
-
-### Some Videos that We Made
+### Some Videos and Lessons that We Made
 * [Binary Search Trees](https://www.youtube.com/watch?v=ov2LTtBtTko)
 * [Tries and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc)
-
+* [Recursion](https://github.com/valeriecodes/recursion-review)
+* [Big-O Notation](https://github.com/valeriecodes/big-o-review)
 
 ### Practice 
 * [HackerRank](https://www.hackerrank.com/) - to practice solving algorithmic problems in Java, Python, C++ - has an in-built IDE
