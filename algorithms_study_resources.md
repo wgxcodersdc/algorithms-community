@@ -5,8 +5,8 @@
 ## Resources
 
 ### Some Videos and Lessons that We Made
-* [Binary Search Trees](https://www.youtube.com/watch?v=ov2LTtBtTko)
-* [Tries and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc)
+* [Binary Search Trees](https://www.youtube.com/watch?v=ov2LTtBtTko) (Video)
+* [Tries and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc) (Video)
 * [Recursion](https://github.com/valeriecodes/recursion-review)
 * [Big-O Notation](https://github.com/valeriecodes/big-o-review)
 
