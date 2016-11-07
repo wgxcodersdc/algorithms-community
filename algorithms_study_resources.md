@@ -5,11 +5,11 @@
 ## Resources
 
 ### Some Videos and Reviews that We Made
-* [Binary Search Trees](https://www.youtube.com/watch?v=ov2LTtBtTko) (Video)
-* [Tries and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc) (Video)
 * [Big-O Notation](https://github.com/valeriecodes/big-o-review)
 * [Basic Data Structures](https://github.com/ghoshkaj/datastructures)
 * [Recursion](https://github.com/valeriecodes/recursion-review)
+* [Binary Search Trees](https://www.youtube.com/watch?v=ov2LTtBtTko) (Video)
+* [Tries and Graphs](https://www.youtube.com/watch?v=_kKDHW1JKsc) (Video)
 
 ### Practice 
 * [HackerRank](https://www.hackerrank.com/) - to practice solving algorithmic problems in Java, Python, C++ - has an in-built IDE
